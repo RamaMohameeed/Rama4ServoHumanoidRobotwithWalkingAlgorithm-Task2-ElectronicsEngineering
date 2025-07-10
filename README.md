@@ -3,12 +3,12 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project showcases a minimal yet effective **humanoid robot** that simulates walking using just **four micro servo motors** and an **Arduino Uno R3**. Designed as an introductory robotics and motion-control experiment, the robot performs a **servo sweep test** and executes a **step-by-step walking sequence** using basic servo programming.
 
 ---
-## 🖼️ Project Preview
+##  Project Preview
 
 Take a closer look at the 4-servo walking robot in action:
 
@@ -19,7 +19,7 @@ Take a closer look at the 4-servo walking robot in action:
 
 
 
-## 🧩 Key Features
+##  Key Features
 
 -  Servo sweep test (0° → 180° → 0°)
 -  Basic walking motion with right/left leg control
@@ -28,7 +28,7 @@ Take a closer look at the 4-servo walking robot in action:
 
 ---
 
-## ⚙️ Hardware Used
+##  Hardware Used
 
 | Component            | Quantity |
 |----------------------|----------|
