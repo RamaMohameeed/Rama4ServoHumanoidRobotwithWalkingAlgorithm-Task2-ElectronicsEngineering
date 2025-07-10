@@ -21,7 +21,7 @@ Take a closer look at the 4-servo walking robot in action:
 
 ##  Key Features
 
--  Servo sweep test (0° → 180° → 0°)
+-  Servo sweep test 
 -  Basic walking motion with right/left leg control
 -  Servo stabilization at 90° (neutral standing pose)
 
